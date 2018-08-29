@@ -20,6 +20,8 @@ A mobile browser is a web browser designed for use on a mobile device such as a 
 
 The most popular web browsers are Android browser, Chrome, Firefox, Safari, Internet Explorer, UC Browser and Samsung Internet.
 
+### Browser Wars
+
 ### Layout Engine/Browser Engine/Rendering Engine
 
 A core software component of every major web browser. The primary job of a browser engine is to transform HTML documents and other resources of a web page into an interactive visual representation on a user's device. A browser engine is not a stand-alone computer program but a critical piece of a larger program.
@@ -36,28 +38,66 @@ The layout of a web page is typically specified by Cascading Style Sheets \(CSS\
 
 Some engines may begin rendering before all of a page's resources are downloaded. This can result in visual changes as more data is received, such as images being gradually filled in or a flash of unstyled content.
 
-##### Engines
+##### Rendering Engines
 
 Because the Web platform is an open standard, there are multiple browser engine implementations.
 
 * Trident - used in Internet Explorer, Microsoft Outlook, and other Windows applications. It was developed by Microsoft, who later introduced the EdgeHTML engine for its Edge web browser.
-* Gecko - Mozilla project's browser engine, used in its Firefox web browser, the Thunderbird email client, and the SeaMonkey internet suite.
-
-* 
-* WebKit
-
-##### Browser Wars
+* Gecko - Mozilla project's browser engine, used in its Firefox web browser, the Thunderbird email client, and the SeaMonkey internet suite. Goanna is a fork of Gecko used by the Pale Moon browser.
+* WebKit - powers Safari and was the engine originally used in Google Chrome. WebKit began as an Apple-initiated fork of the KHTML engine, which was created by KDE for its Konqueror browser. Google later forked WebKit into the Blink engine, which is now developed independently from WebKit.
+  Both WebKit and Blink are used in other browsers. Although Apple permits third-party browsers as alternatives to Safari on iOS devices, all browsers distributed through its App Store use WebKit as their engine.
 
 ##### References
 
 ```
+https://en.wikipedia.org/wiki/Browser_engine
+https://en.wikipedia.org/wiki/Blink_(web_engine)
+https://en.wikipedia.org/wiki/WebKit
+https://en.wikipedia.org/wiki/Gecko_(software)
+https://en.wikipedia.org/wiki/Trident_(software)
+```
+
+#### JavaScript Engines
+
+A program or interpreter which executes JavaScript code. A JavaScript engine may be a traditional interpreter, or it may utilize just-in-time compilation to bytecode in some manner.
+
+##### Active Projects
+
+* Rhino, managed by the Mozilla Foundation, open source, developed entirely in Java
+* SpiderMonkey, the first JavaScript engine, which powered Netscape Navigator and today powers Firefox
+* V8 - open source, developed by Google in Denmark, part of Google Chrome and Node.js
+* JavaScriptCore - open source, marketed as Nitro and developed by Apple for Safari
+* Chakra \(JavaScript\) for Microsoft Edge
+* Nashorn, open source as part of OpenJDK, written by Oracle Java Languages and Tool Group
+* JerryScript, is an ultra-lightweight JavaScript engine for the Internet of Things.
+
+##### References
+
+```
+https://en.wikipedia.org/wiki/JavaScript_engine
+https://en.wikipedia.org/wiki/List_of_ECMAScript_engines
+https://en.wikipedia.org/wiki/Comparison_of_JavaScript_engines
+
+https://en.wikipedia.org/wiki/Rhino_(JavaScript_engine)
+https://en.wikipedia.org/wiki/SpiderMonkey
+https://en.wikipedia.org/wiki/Chrome_V8
+https://en.wikipedia.org/wiki/WebKit#JavaScriptCore
+https://en.wikipedia.org/wiki/Chakra_(JavaScript_engine)
+https://en.wikipedia.org/wiki/Nashorn_(JavaScript_engine)
+https://en.wikipedia.org/wiki/JerryScript
+```
+
+### References
+
+```
 https://en.wikipedia.org/wiki/Web_browser
 https://en.wikipedia.org/wiki/Mobile_browser
-https://en.wikipedia.org/wiki/Browser_engine
-https://en.wikipedia.org/wiki/JavaScript_engine
+https://en.wikipedia.org/wiki/List_of_web_browsers
 
+Explore
 https://en.wikipedia.org/wiki/Web_search_engine
 https://en.wikipedia.org/wiki/Browser_wars
+https://en.wikipedia.org/wiki/UC_Browser
 ```
 
 

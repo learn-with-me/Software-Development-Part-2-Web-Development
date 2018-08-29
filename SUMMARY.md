@@ -4,11 +4,10 @@
 * [Technical Concepts](02-technical-concepts/README.md)
   * [Application Classification](02-technical-concepts/application-classification.md)
   * [FE Frameworks to Learn](02-technical-concepts/fe-frameworks-to-learn.md)
-* [Browser](browser.md)
+* [Browser](03-browser/README.md)
 * [Web Development](03-front-end/README.md)
   * [HTML5](03-front-end/notes-html5.md)
   * [Node.js](03-front-end/nodejs/README.md)
     * [Node Packages](03-front-end/nodejs/node-packages.md)
     * [Package Manager](03-front-end/nodejs/package-manager.md)
   * [React](03-front-end/react.md)
-

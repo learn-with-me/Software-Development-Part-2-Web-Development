@@ -25,7 +25,11 @@ Because the SPA is an evolution away from the stateless page-redraw model that b
 
 ##### Search Engine Optimization
 
-Because of the lack of JavaScript execution on crawlers of some popular Web search engines, SEO \(Search engine optimization\) has historically presented a problem for public facing websites wishing to adopt the SPA model.
+Because of the lack of JavaScript execution on crawlers of some popular Web search engines, SEO \(Search engine optimization\) has historically presented a problem for public facing websites wishing to adopt the SPA model. 
+
+Because SEO compatibility is not trivial in SPAs, it is worth noting that SPAs are commonly not used in a context where search engine indexing is either a requirement, or desirable.
+
+...... Add more here
 
 ##### Client/Server code partitioning
 

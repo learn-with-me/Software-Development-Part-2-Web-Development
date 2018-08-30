@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Technical Concepts](02-technical-concepts/README.md)
-  * [Application Classification](02-technical-concepts/application-classification.md)
+  * [Web Application Classification](02-technical-concepts/application-classification.md)
   * [Single Page Applications](02-technical-concepts/single-page-applications.md)
   * [FE Frameworks to Learn](02-technical-concepts/fe-frameworks-to-learn.md)
 * [Web Browser](03-browser/README.md)

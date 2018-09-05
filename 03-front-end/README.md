@@ -14,9 +14,9 @@ After running some benchmarks on the current application, we identified an avera
 
 Base on this data we can configure overload-protection to return HTTP Status 503 to notify the load balancer that the current node it's too busy to process any other request and to retry later on. This is a basic circuit breaking technique to avoid to saturate Node.js processes adding latency to the overall user experience.
 
-> https://github.com/mcollina/loopbench
+> [https://github.com/mcollina/loopbench](https://github.com/mcollina/loopbench)
 >
-> https://github.com/davidmarkclements/overload-protection
+> [https://github.com/davidmarkclements/overload-protection](https://github.com/davidmarkclements/overload-protection)
 
 ##### Assets compilation and distribution
 
@@ -35,6 +35,21 @@ Currently, configurations \(.env files\) are also bundled via webpack-dotenv but
 The main goal of the experience behind the boilerplate is to facilitate and optimize the development process. For this purpose webpack is bundling and auto-restarting the Node.js app while updating the front-end app.
 
 > npm run dev
+
+### IRC
+
+Internet Relay Chat \(IRC\) is a system for chatting that involves a set of rules and conventions and client/server software. On the Web, certain sites such as Talk City or IRC networks such as the Undernet provide servers and help you download an IRC client to your PC.
+
+The chat process works on a client/server networking model. IRC clients are computer programs that users can install on their system or web based applications running either locally in the browser or on 3rd party server. These clients communicate with chat servers to transfer messages to other clients.
+
+IRC is also an open standard, and therefore doesn’t belong to anyone. The protocol is defined as RFC 1459. That means anyone can read the specification and write a client or server program
+
+###### Related links
+
+```
+https://wiki.mozilla.org/IRC
+https://en.wikipedia.org/wiki/Comparison_of_Internet_Relay_Chat_clients
+```
 
 ### Browser Database
 

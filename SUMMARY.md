@@ -6,6 +6,7 @@
   * [Single Page Applications](02-technical-concepts/single-page-applications.md)
   * [FE Frameworks to Learn](02-technical-concepts/fe-frameworks-to-learn.md)
   * [Circuit Breaker](02-technical-concepts/circuit-breaker.md)
+  * [Health Monitoring](02-technical-concepts/health-monitoring.md)
 * [Web Browser](03-browser/README.md)
 * [Web Development](03-front-end/README.md)
   * [HTML5](03-front-end/notes-html5.md)

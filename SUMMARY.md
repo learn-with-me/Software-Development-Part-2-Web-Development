@@ -5,6 +5,7 @@
   * [Web Application Classification](02-technical-concepts/application-classification.md)
   * [Single Page Applications](02-technical-concepts/single-page-applications.md)
   * [FE Frameworks to Learn](02-technical-concepts/fe-frameworks-to-learn.md)
+  * [Circuit Breaker](02-technical-concepts/circuit-breaker.md)
 * [Web Browser](03-browser/README.md)
 * [Web Development](03-front-end/README.md)
   * [HTML5](03-front-end/notes-html5.md)
@@ -12,4 +13,6 @@
     * [Node Packages](03-front-end/nodejs/node-packages.md)
     * [Package Manager](03-front-end/nodejs/package-manager.md)
   * [React](03-front-end/react.md)
+  * [Bundling](03-front-end/bundling.md)
+  * [Unit Testing](03-front-end/unit-testing.md)
 

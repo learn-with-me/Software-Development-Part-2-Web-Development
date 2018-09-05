@@ -38,10 +38,13 @@ https://en.wikipedia.org/wiki/Responsive_web_design
 
 ##### Adaptive Web Design \(AWD\)
 
+Where responsive design relies on changing the design pattern to fit the real estate available to it, adaptive design has multiple fixed layout sizes. When the site detects the available space, it selects the layout most appropriate for the screen. So, when you open a browser on the desktop, the site chooses the best layout for that desktop screen; resizing the browser has no impact on the design.
+
 ###### References
 
 ```
 https://www.interaction-design.org/literature/article/adaptive-vs-responsive-design
+https://www.optasy.com/blog/adaptive-vs-responsive-design-what-difference-which-one-better-you
 ```
 
 ### Progressive Web Apps \(PWA\)
@@ -57,6 +60,7 @@ https://developers.google.com/web/progressive-web-apps/
     https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/
 
 https://medium.freecodecamp.org/why-progressive-web-apps-are-the-future-of-web-development-13db7dd5f640
+    https://dzone.com/articles/types-of-web-applications-from-a-static-web-page-t
 ```
 
 ##### Native Apps

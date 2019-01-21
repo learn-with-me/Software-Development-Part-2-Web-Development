@@ -8,6 +8,7 @@
   * [Circuit Breaker](02-technical-concepts/circuit-breaker.md)
   * [Health Monitoring](02-technical-concepts/health-monitoring.md)
 * [Web Browser](03-browser/README.md)
+  * [Web Sockets](03-browser/web-sockets.md)
 * [Web Development](03-front-end/README.md)
   * [HTML5](03-front-end/notes-html5.md)
   * [Node.js](03-front-end/nodejs/README.md)

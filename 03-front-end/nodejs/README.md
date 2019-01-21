@@ -42,5 +42,17 @@ EJS
 DustJS
 ```
 
+##### Top mistakes using Node.js
+
+```
+• Writing a CPU bound code like sorting a really large array
+• Invoking a callback more than once, for example res.send or resolve
+• Deeply nesting callbacks is often known as callback hell
+• Expecting callbacks to run synchronously. If callback returns a promise, it won't run as expected.
+• Assigning to “exports”, Instead of “module.exports”
+
+https://www.toptal.com/nodejs/top-10-common-nodejs-developer-mistakes
+```
+
 
 

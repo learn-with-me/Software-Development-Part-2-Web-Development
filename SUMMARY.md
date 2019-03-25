@@ -17,5 +17,6 @@
   * [React](03-front-end/react.md)
   * [Bundling](03-front-end/bundling.md)
   * [Unit Testing](03-front-end/unit-testing.md)
+  * [UUID](03-front-end/uuid.md)
 * [Empty Space](empty-space.md)
 

@@ -25,6 +25,9 @@ Read about:
 * Streaming
 * Polling and Long Polling
 * Server sent events
+* Library vs Framework
+* Declarative vs Imperative
+* jsx, typescript
 
 
 
